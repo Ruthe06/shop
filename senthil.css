@@ -1,0 +1,43 @@
+body{
+	 font-family: georiga,cursie;
+  background-color:none;
+    background-image:url("blue-aesthetic-lake-full-moon-iwxpcn0jo4w3tmoh.jpg");
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container{
+	background-color:#fff;
+	padding:20px;
+	border-radius: 20px;
+	box-shadow: 0010px,rgba(0,0,0,0.1); 
+	width: 400px;
+}
+h1{
+	color:#ffec19; 
+	font-family: cursive;
+}label {
+    margin-top: 10px;
+}
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 250px;
+    border:none;
+    border:1px solid #ccc;
+    color:blue;
+    border-radius: 5px;
+}
+button{
+	 padding: 10px;
+    margin: 5px;
+    width: 250px;
+    background-color: #0080fe; 
+}
+a{
+	cursor: pointer;
+}
+    
+
